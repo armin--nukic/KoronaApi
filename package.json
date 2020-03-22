@@ -1,16 +1,14 @@
 {
-  "name": "rona",
+  "name": "KoronaApi",
   "version": "1.0.0",
   "homepage": "https://armin--nukic.github.io/KoronaApi",
   "description": "",
   "main": "index.js",
   "scripts": {
     "start": "next",
-    "predeploy": "npm start",
     "deploy": "gh-pages -d next"
-    
   },
-  "author": "",
+  "author": "Armin",
   "license": "ISC",
   "dependencies": {
     "next": "^9.3.0",
